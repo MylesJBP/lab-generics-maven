@@ -2,7 +2,7 @@ package edu.grinnell.csc207.util;
 
 /**
  * A simple predicate.
- *
+ * @author: Myles Bohrer-Purnell, Ben Sheeley
  * @param <T>
  *   The type of values the predicate will be applied to.
  */

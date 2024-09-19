@@ -2,6 +2,7 @@ package edu.grinnell.csc207.util;
 
 /**
  * Dynamic arrays of values.
+ * @author: Myles Bohrer-Purnell, Ben Sheeley
  *
  * @param <T>
  *   The type of value stored in the dynamic array.

@@ -2,6 +2,7 @@ package edu.grinnell.csc207.util;
 
 /**
  * Some simple search utilities.
+ * @author: Myles Bohrer-Purnell, Ben Sheeley
  */
 public class SearchUtils {
   /**

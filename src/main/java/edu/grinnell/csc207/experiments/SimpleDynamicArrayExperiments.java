@@ -8,6 +8,7 @@ import java.math.BigInteger;
 
 /**
  * Some simple experiments with dynamic arrays.
+ * @author: Myles Bohrer-Purnell, Ben Sheeley
  */
 public class SimpleDynamicArrayExperiments {
 
